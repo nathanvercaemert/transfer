@@ -1,11 +1,2 @@
 * new wsl window with emacs
 alacritty --config-file C:\\Users\\nverc\\AppData\\Roaming\\alacritty\\alacritty.yml -e wsl -d Ubuntu --user vercaemert emacsclient -nw
-* vimium
-unmapAll
-map <c-q>i focusInput
-map <c-q>a LinkHints.activateMode
-map <c-q>b LinkHints.activateModeToOpenInNewTab
-map <c-q>f scrollPageDown
-map <c-q>e scrollPageUp
-map <c-q>c scrollDown
-map <c-q>d scrollUp
